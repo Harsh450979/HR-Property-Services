@@ -4,39 +4,39 @@ Hello Visitor!
 This is HR Property Services that means a PROPERTY MANAGEMENT project built in flask framewrok. The project has been built by taking reference from other Project.
 The Project has been developed as final year project in TYBCA with a classmate.
 
-Introduction To Project:
+## Introduction To Project:
 This project focuses on providing HR PROPERTY SERVICES to real estate agencies, commercial construction companies or HR PROPERTY SERVICES company. This helps customer to save time & get right business solution for your business. The real estate business deals with the development of the property and the lease, rent or sale of establishments. It is one of the fastest growing enterprises in India. It has potentially never-ending growth. Incredibly lawyers and real estate people have the highest income. As the real estate agent one has to maintain a lot of data. He is involved-with the clients who has to lease out, rent or sale the property and with the customer who intends to buy, rent or lease the property. Hence it involves lot of information exchange. The advent of computers can ease out this hassle. 
 
-For setup of this project follow the following steps:
+## For setup of this project follow the following steps:
 
-step 1 : Install Python, Flask, and Mysql 
+### step 1 : Install Python, Flask, and Mysql 
 Python - https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe
 Flask - pip install flask
 Mysql - https://dev.mysql.com/downloads/installer/
 
-step 2 : Install Visual Studio(Recommended) and Whl file
+### step 2 : Install Visual Studio(Recommended) and Whl file
 https://code.visualstudio.com/download
 
-step 3 : Create a virtual environment(env)
+### step 3 : Create a virtual environment(env)
 python3 -m venv env
 
-step 4 : activate the Virtual Environment
+### step 4 : activate the Virtual Environment
 env\scripts\activate
 If not working directly then try following command : Set-ExecutionPolicy Unrestricted -Scope Process
 and then : env\scripts\activate
 
-step 5 : Install all the Packages or Modules inside requirements.txt file
+### step 5 : Install all the Packages or Modules inside requirements.txt file
 pip install -r requirements.txt
 
-step 6 : Now set the main file as Flask App using:
+### step 6 : Now set the main file as Flask App using:
 $env:FLASK_APP = "main"
 
-step 7 : Finally you can run your application by:
+### step 7 : Finally you can run your application by:
 flask run
 
 
 
-Snapshots
+## Snapshots
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Register Page:
