@@ -1,6 +1,6 @@
 # HR-Property-Services
 
-Hello Visitor!
+Hello Visitors!
 This is HR Property Services that means a PROPERTY MANAGEMENT project built in flask framewrok. The project has been built by taking reference from other Project.
 The Project has been developed as final year project in TYBCA with a classmate.
 
