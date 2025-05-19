@@ -1,8 +1,8 @@
 # HR-Property-Services
 
-Hello Visitor!
+Hello Visitor!  
 This is HR Property Services that means a PROPERTY MANAGEMENT project built in flask framewrok. The project has been built by taking reference from other Project.
-The Project has been developed as final year project in TYBCA with a classmate @Ramakant2124.
+The Project has been developed as final year project in TYBCA with a classmate [Ramakant Chaudari](https://github.com/Ramakant2124).
 
 ## Introduction To Project:
 This project focuses on providing HR PROPERTY SERVICES to real estate agencies, commercial construction companies or HR PROPERTY SERVICES company. This helps customer to save time & get right business solution for your business. The real estate business deals with the development of the property and the lease, rent or sale of establishments. It is one of the fastest growing enterprises in India. It has potentially never-ending growth. Incredibly lawyers and real estate people have the highest income. As the real estate agent one has to maintain a lot of data. He is involved-with the clients who has to lease out, rent or sale the property and with the customer who intends to buy, rent or lease the property. Hence it involves lot of information exchange. The advent of computers can ease out this hassle. 
@@ -22,9 +22,7 @@ https://code.visualstudio.com/download
 
 ### step 4 : activate the Virtual Environment
 > env\scripts\activate  
-If not working directly then try following command :  
 > Set-ExecutionPolicy Unrestricted -Scope Process
-and then :  
 > env\scripts\activate
 
 ### step 5 : Install all the Packages or Modules inside requirements.txt file
