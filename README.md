@@ -18,7 +18,9 @@ Mysql - https://dev.mysql.com/downloads/installer/
 https://code.visualstudio.com/download
 
 ### step 3 : Create a virtual environment(env)
-> python3 -m venv env
+'''bash
+python3 -m venv env
+'''
 
 ### step 4 : activate the Virtual Environment
 > env\scripts\activate  
